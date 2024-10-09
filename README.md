@@ -10,7 +10,7 @@ We are releasing the following artifacts from the paper.
 
 †*For the benchmark datasets used in our paper, using the Wikipedia-only index retains the majority of performance benefits, comparable to using the full retrieval index that combines both Wikipedia and Common Crawl data.* 
 
-## Set up the Retriever
+## Retriever Setup
 ### Download Wikipedia 2021 passages
 We use the same Wikipedia 2021 passages as processed by [Izacard et al. 2022](https://arxiv.org/abs/2208.03299). You can download the passages following [these instructions](https://github.com/facebookresearch/atlas?tab=readme-ov-file#corpora). Be sure to use the download key `corpora/wiki/enwiki-dec2021`.
 
